@@ -8,3 +8,5 @@ datetime
 smtplib
 mimetypes
 autopy
+
+ver video: https://www.youtube.com/watch?v=WY2upthEPng
